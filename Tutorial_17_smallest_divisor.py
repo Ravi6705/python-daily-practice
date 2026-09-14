@@ -16,3 +16,6 @@ for d in range(2,n+1):
         l.append(d)
 
 print(f"the smallest divisor of {n} is {l[0]}")
+
+# we can also use the min() function to find the smallest divisor of a number
+# for maximum divisor we can use max() function
