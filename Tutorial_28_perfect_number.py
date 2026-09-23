@@ -1,3 +1,4 @@
+#The program takes a number and checks if it is a Perfect number
 n=int(input("Enter the number : "))
 temp=n
 sum=0
