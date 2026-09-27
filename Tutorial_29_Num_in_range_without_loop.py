@@ -1,3 +1,4 @@
+#This is a Python Program to print all numbers in a range without using loops.
 def num_in_range(a, n):
 
     if a > n:
